@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Im' based in Paris, France 
+*  🌍  I'm based in Paris, France
 
 ### Skills
 
