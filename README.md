@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##Im' based in Paris, France 
+
 ### Skills
 
 <p align="left">
