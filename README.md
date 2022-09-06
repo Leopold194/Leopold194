@@ -2,6 +2,10 @@
 
 *  🌍  I'm based in Paris, France
 
+### Description
+
+I am a first-year student at the Ecole Superieur du Génie Informatique in Paris, on a work-study program at ....
+
 ### Skills
 
 <p align="left">
