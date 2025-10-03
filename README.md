@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 - 🌍 I'm based in Paris, France  
-- 🎓 3rd-year Bachelor's student at ESGI (École Supérieure du Génie Informatique)  
-- 💼 Currently working as a Data Scientist apprentice at Green Shield Technology  
+- 🎓 4th-year Bachelor's student at ESGI (École Supérieure du Génie Informatique)  
+- 💼 Currently working as a Data Scientist apprentice at SCC France
 - 🧠 Passionate about AI, software engineering, and geospatial data  
 
 ---
 
 ### 💻 Description
 
-I’m a third-year computer science student at ESGI Paris, specializing in data science through a work-study program at Green Shield Technology. I develop Python applications for mathematics and geospatial information systems, create APIs for data processing and visualization, and maintain deployment pipelines on Google Cloud Platform.  
+I’m a fourth-year computer science student at ESGI Paris, specializing in data science through a work-study program at Green Shield Technology. I develop Python applications for mathematics and geospatial information systems, create APIs for data processing and visualization, and maintain deployment pipelines on Google Cloud Platform.  
 I'm also engaged in personal projects ranging from AI framework development to building a new programming language in C.
 
 ---
